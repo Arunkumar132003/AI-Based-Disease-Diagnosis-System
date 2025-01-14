@@ -24,9 +24,6 @@ The AI-Driven Healthcare Diagnosis System is an innovative project designed to r
 3. **Output Layer**: Provides diagnoses, detailed recommendations, and actionable insights.
 
 
-## Model
+## Fine-Tuned Model
 The fine-tuned model is hosted on Hugging Face. You can find it here: [Disease Diagnosis Model](https://huggingface.co/iamak132003/disease_diagnosis).
 
-
-## License
-This project is licensed under the [MIT License](LICENSE).
