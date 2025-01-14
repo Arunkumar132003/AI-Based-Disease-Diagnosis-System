@@ -14,7 +14,6 @@ The AI-Driven Healthcare Diagnosis System is an innovative project designed to r
 - **Language Model**: Fine-tuned Llama 3.1 with Unsloth techniques for optimized performance.
 - **AI Framework**: LoRA-based fine-tuning for domain-specific healthcare tasks.
 - **Backend API**: Gemini API for lab report and prescription analysis.
-- **Data Storage**: CSV and JSON for input and output data processing.
 
 ## Project Architecture
 1. **Input Layer**: Collects user symptoms, age, gender, lab reports, and prescriptions.
